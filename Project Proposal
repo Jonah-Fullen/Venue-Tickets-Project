@@ -1,0 +1,44 @@
+Final Project Proposal
+CIS 115 – Introduction to Programming and Logic
+Jonah Fullen
+
+Introduction
+In many cases, when you are purchasing tickets to an event there is an option to view a map of the venue in order to see exactly the position if the 
+seats you are getting. It is most convenient when you are able to select your desired tickets straight from the map rather than having to reference 
+the map and select the tickets from a list. For my project, I propose the development of a program that displays an interactive map of the venue to 
+the user and allows them to select their desired seats directly from it. This would also make it easier for the venue owner/manager to keep track of
+what tickets have been sold, and how many are left.
+
+Objectives
+•	To provide an easily understood application that allows for the user to select specific seating off of the map. 
+•	Keep track of what seats/tickets have already been purchased as to not “double book” seats or over-crowd the general admission areas.
+•	Provide an easy way for the venue to receive payment for the tickets.
+
+Target Users
+•	Entertainment Seekers – This venue may be hosting many different types of events; from music, to plays, to seminars. Anyone who would be interested
+in attending the event would find this application very useful when they are purchasing their tickets. 
+
+Value Proposition
+This application would make ticket sales drastically easier for both the venue and the customer. Often, when customers are looking for tickets to 
+purchase, it is much more appealing for them to know exactly where they will be sitting and to have an idea of what the venue looks like before they 
+show up to an event. This application would provide that information to the customers as well as make ticket sales easier for the venue to keep track of. 
+
+Application Features and Description
+Opening screen is an interactive map displaying all of the tickets for the user to choose from. The user selects their desired tickets and hits the
+“Checkout” button. The checkout page requires for the user to enter their personal information (name, phone number, email, etc.) to claim the tickets 
+and also accepts payment. Once the user confirms and pays the application goes back to the map screen displaying the previously purchased tickets as
+unavailable.
+
+Tools and Resources
+Visual Studios 2015
+.NET Framework
+Visual Basic
+Layout of Venue
+Ticket Prices
+
+Challenge
+I expect the biggest challenge in the development of this application to be getting the interactive map to do exactly what I envision it doing.
+From displaying all of the available tickets to restricting the purchase of previously sold tickets. I also anticipate that the checkout process will 
+likely be more complicated than I have originally thought. 
+ 
+
