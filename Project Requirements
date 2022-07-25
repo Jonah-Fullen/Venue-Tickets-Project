@@ -1,0 +1,39 @@
+Jonah Fullen
+CIS 115
+Healy
+April 3, 2017
+
+Venue Project Requirements Document
+
+Description:
+This program will be a design for a theatre/music venue to sell tickets to customers. It will include a map/layout of the venue (provided by the client)
+where users are able to select the desired ticket(s). As the user is selecting their ticket(s) a working subtotal will be displayed. When the user has 
+selected the desired ticket(s) they proceed to a separate checkout tab on which their selected ticket(s), subtotal, tax, and total will be displayed. 
+
+Procedures/Requirements:
+1.	The program should consist of at least two (2) tabs: one where the user selects the desired ticket(s), and a second that is a checkout window.
+2.	Ticket selection tab:
+a.	The seats should be color-coded based on price. (Low Price: $10.99 each, Mid Price: $15.99 each, High Price: $20.99 each)
+b.	PIT tickets are in the Low price range. The Mid and High price tickets are reserved seats.
+c.	When the user selects the PIT they should be prompted to enter a quantity. 
+d.	The user should be able to select and deselect multiple seats.
+e.	When a user selects a seat the back color is changed to red to show that it has been selected.
+f.	A subtotal should be displayed and updated as the user selects and deselects tickets. 
+g.	After one user has finished checking out: the program should reopen the ticket selection tab for another user to use with the taken seats marked 
+    as unavailable. 
+3.	Checkout tab:
+a.	Should display what tickets the user has selected.
+b.	Should allow the user to select a VIP package (As a Yes or No radio button) for an additional $20.99 per ticket.
+c.	Should display the subtotal, tax, and total. (Sales tax should be 5%)
+d.	Allow the user to “Confirm Tickets” and pay or “Go Back” to select different tickets. (Going back should still display the tickets the user has
+    selected.)
+e.	Confirming the tickets should reiterate the users selected tickets and display a “Next” button.
+f.	The “Next” button should go to the new ticket selection tab as described above. 
+
+Restrictions & Comments:
+1.	The checkout tab should only be accessible if the user has selected at least one ticket.
+2.	A user has selected and confirmed tickets, those tickets should not be available to later users. (They should be disabled) 
+3.	Only a total of 100 PIT tickets are available.
+4.	Seats A1-A20, B1-B20…E1-E20 are in the High Price range.
+5.	Seats F1-F20, G1-G20…J1-J20 are in the Mid. Price range.
+6.	The only way to switch between tabs are the “Checkout” and “Go Back” buttons. 
