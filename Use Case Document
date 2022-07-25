@@ -1,0 +1,14 @@
+Final Project Use Case Document
+Venue Project
+Jonah Fullen
+
+1.	The application opens displaying an interactive map where the user can select the seats/tickets they want.
+2.	A menu bar shows a File menu which contains an Exit item.
+3.	Only when at least one ticket has been selected can the user click the “Checkout” button.
+4.	When they user clicks the “Checkout” button the map panel closes and the checkout window opens. 
+5.	The user inputs their name, phone number, email, and selects weather or not they want the upgrade their tickets to VIP.
+6.	Once the user enters all information and clicks the “Submit” button a confirmation massage appears showing the purchased tickets and a “Next” button.
+7.	Once the “Next” button is clicked the application closes the checkout window and reopens the map window, but the tickets that have been purchased 
+    by previous users are unavailable for future users. 
+8.	If all tickets are taken, the application displays a “Sold Out” message.
+9.	The application is closed by a user clicking File > Exit.
