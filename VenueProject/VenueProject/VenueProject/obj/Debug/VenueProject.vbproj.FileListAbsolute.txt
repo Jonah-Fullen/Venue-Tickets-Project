@@ -1,0 +1,11 @@
+\\mac\home\documents\visual studio 2015\Projects\VenueProject\VenueProject\bin\Debug\VenueProject.exe.config
+\\Mac\Home\Documents\Visual Studio 2015\Projects\VenueProject\VenueProject\bin\Debug\VenueProject.exe
+\\Mac\Home\Documents\Visual Studio 2015\Projects\VenueProject\VenueProject\bin\Debug\VenueProject.pdb
+\\Mac\Home\Documents\Visual Studio 2015\Projects\VenueProject\VenueProject\bin\Debug\VenueProject.xml
+\\Mac\Home\Documents\Visual Studio 2015\Projects\VenueProject\VenueProject\obj\Debug\VenueProject.vbprojResolveAssemblyReference.cache
+\\Mac\Home\Documents\Visual Studio 2015\Projects\VenueProject\VenueProject\obj\Debug\VenueProject.frmVenueProject.resources
+\\Mac\Home\Documents\Visual Studio 2015\Projects\VenueProject\VenueProject\obj\Debug\VenueProject.Resources.resources
+\\Mac\Home\Documents\Visual Studio 2015\Projects\VenueProject\VenueProject\obj\Debug\VenueProject.vbproj.GenerateResource.Cache
+\\Mac\Home\Documents\Visual Studio 2015\Projects\VenueProject\VenueProject\obj\Debug\VenueProject.exe
+\\Mac\Home\Documents\Visual Studio 2015\Projects\VenueProject\VenueProject\obj\Debug\VenueProject.xml
+\\Mac\Home\Documents\Visual Studio 2015\Projects\VenueProject\VenueProject\obj\Debug\VenueProject.pdb
